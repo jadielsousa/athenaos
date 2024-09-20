@@ -1,4 +1,4 @@
-# athenaos
+# AthenaOS
 AthenaOS is a firmware to M5Cardputer
 
 Nesse firmware pretendo adicionar as seguintes funcionalidades.
