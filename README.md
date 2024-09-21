@@ -9,10 +9,12 @@ Nesse firmware pretendo adicionar as seguintes funcionalidades.
 - Clima
 - Teclado Bluetooth
 - LAN Scanner
-- Wi-Fi Deauth Attack
+- Wi-Fi info ( potencia do sinal, nome do fabricante, canal de comunicação, frequência )
 - Sub Gigahertz com CC1101
 - Controle Remoto Universal ( TV, Ar-condicionado, ... )
-- Captive Portal
+- Ataques via Wi-Fi (Captive Portal, Wi-Fi Deauth Attack)
+- Ataques via bluetooth
+- IA Generativa
 - entre outros baseados em sensores da M5Stack.
 
 A cada nova função, novo release será lançado.
